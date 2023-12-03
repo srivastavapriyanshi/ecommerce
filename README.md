@@ -1,10 +1,12 @@
 # ecommerce
 -------INTRODUCTION--------
+
 The goal is to develop a Django web application with REST APIs for a fictional e-commerce store.
 
 Template is written with django 4.2 and python 3 in mind.
 
 -------FEATURES------------
+
 - APIs related to Admin should have the capabilities to:
 * Manage Products & their inventory:
 * Can add, edit, and delete products.
@@ -25,6 +27,7 @@ Template is written with django 4.2 and python 3 in mind.
 * See order history
 
 -------SETUP---------------
+
 The first thing to do is to clone the repository:
 - git clone https://github.com/srivastavapriyanshi/ecommerce.git
 - cd ecommerce
